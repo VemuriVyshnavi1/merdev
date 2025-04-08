@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is created in main
+=======
+c2 in fb hello devops
+>>>>>>> fb
